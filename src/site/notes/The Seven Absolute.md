@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-seven-absolute/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"dg-home":true,"permalink":"/the-seven-absolute/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 Nơi mà 7 [[Dimension\|Dimension]] cùng tồn tại. Mỗi Dimension là mà 1 cơ chế riêng biệt được phân cách hoặc 1 chân lý bị đẩy lên mức tối đa, cụ thể gồm các Dimension sau:
