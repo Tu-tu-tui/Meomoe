@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/morotoris/","tags":["gardenEntry"],"dg-note-properties":{"tags":null}}
+{"dg-publish":true,"permalink":"/morotoris/","dg-note-properties":{"tags":null}}
 ---
 
 Là 1 con tàu được sản xuất và quản lý bởi [[The Station\|The Station]] được biết đến như 1 con tàu du lịch qua các [[Timeline\|Timeline]] . Tuy nhiên sau sự kiện [[When Train don't need Rail\|When Train don't need Rail]]. Nó đã đc [[Riven\|Riven]] cải tiến thành 1 con tàu phá hủy Timeline gồm 3 toa bao gồm:[[Surgery Carriage\|Surgery Carriage]]  , [[Execution Carrage\|Execution Carrage]]  và [[Erase Carrage\|Erase Carrage]] dưới sự quản lý của phó tàu Riven và trưởng tàu [[Astra\|Astra]] cùng với 18 [[Passenger \|Passenger ]] và 3 [[Manager \|Manager ]] bao gồm:
