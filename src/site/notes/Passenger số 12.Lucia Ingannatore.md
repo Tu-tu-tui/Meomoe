@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/passenger-so-12-lucia-ingannatore/","dg-note-properties":{}}
+---
+
+Tên:Lucia Ingannatore
+Tuổi:Không có
+Chiều cao:1m70
+Ngoại hình:Là 1 cô gái, tóc dài nâu. Mắt đen. Da vàng
+Huy hiệu:1 Chiếc đồng hồ đặt trên mặt đất, bên ngoài là những bông hoa tươi. Bên trong là 2 chiếc bánh răng ko tương thichd, 1 cái ở tâm đồng hồ, và 1 cái ở cạnh đồng hồ(ở số 12) và có chạm nhau nhưng ko tương thích
+Backstory:Cô thực ra là 1 bản thể của [[Lucia Verita\|Lucia Verita]]  tại Timeline của cô. Mỗi người cần phải có 1 bảo hộ của [[Eternal Gear Industries(EGI)\|Eternal Gear Industries(EGI)]] để có thể tồn tại như người thường. Sau khi bản thể thật chết đi, cái bản thể sao chép khác cũng dần chết theo do ko có bảo hộ. Cô biết điều này nên đã xin bảo hộ từ EGI nhưng ko đc. Nhưng họ đưa cho cô 1 đề nghị là ghi chép lại 1 biến số mà họ chưa rõ. Đó là [[Morotoris\|Morotoris]]. Cô là tự tạo 1 cảnh trauma giả để có thể kí hợp đồng. Khi ở trên tàu, cô luôn cố gắng nịnh [[Riven\|Riven]] để lấy mọi hông tin từ Morotoris. Và rồi khi đủ thông tin, cũng chính là lúc Morotoris ghé thăm Timeline của cô. Thì EGI đã thất hứa và bỏ mặc cô. Khi cô biết điều này, thì cô chỉ lặng lằng thông báo sự thật cho Riven và đã chuẩn bị cho việc đuổi khỏi tàu. Nhưng ko, Riven còn vạch cho cô 1 bản chiến thuật để cô lật đổ lại EGI. Khi cô còn do dự thì Riven nói 1 câu rằng:"Cô giờ là của Morotoris, không phài của họ". Và điều này khiến Lucia biết được rằng mình không càn bảo hành. Theo bản kế hoạch thì Morotoris sẽ lật đổi từ bên trong trước. Nhưng khi đến tháp Đồng hồ(HQ của EGI) thì ở đây Lucia gặp lại người đã thất hứa với mình. Đó là [[Afonso Ampulheta\|Afonso Ampulheta]]. Trận chiến này thì có Lucia và Riven than chiến. Ở đây Afonso có rất nhiều đồng hồ cho từng lại từ hiện tại, tương lai đến quá khứ. Nhưng Lucia đã chôm đc 1 chiếc đồng hồ đóng băng 1 người từ 1 người quản lý cũ. Từ đó cô khóa Afonso lại. Khi cô nghĩ cô đã thắng thì tất cả đồng hồ của Afonso laii quay lại hồi sinh Afonso. Cứ thế cho đến lần thứ 7,cô kiệt sức và Riven cũng vaayjj. Nhưng các Passenger khác đã kịp phá hỏng vài chiếc bánh răng quan trọng. Nhưng đã quá khứ khi Lucia đang bắt đầu nghi thức triệu hồi lại bản thể chính của mình. Khi Lucia thật lên, cô ta đập nát Lucia giả chết ngay tại chỗ và bắt đầu tham chiến với Afonso(Mahoraga vibe này). Và cuối cùng thì cô đã thắng. Nhưng giờ Lucia trên tàu ko còn là Lucia họ từng biết, vì cô giờ là bản thể thật rồi
+Fun fact:
+Đây là Passenger duy nhất sở hữu 2 Station
+Trauma giả của cô có dựa trên trauma thật, nhưng nó giống như shounen khi nó tâng bốc Riven lên
+Từ sau sự kiện này, Passenger số 12 ko còn là Lucia Ingannatore, mà là Lucia Verita

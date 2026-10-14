@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/when-train-don-t-need-rail/","dg-note-properties":{}}
+---
+
+Khi [[Riven\|Riven]] và [[Astra\|Astra]]  có tình cảm ngày càng sâu đậm. Sau 5 năm làm việc, Riven quyết định cầu hôn Astra và được cô đồng ý. Nhưng sau đó thì con tàu trật bánh khiến tất xử hành khách và Astra chết. Nhưng linh hồn xử cô bị kẹt lại trên tàu do lời cầu hôn chưa thành lễ,  Riven đã thử backup nhưng và thành công. Nhưng tất cả lần backup đều khiến Astra chết. Anh backup nhiều đến nỗi nhớ từng câu nói, điệu bọ hay hành động của cô. Nhưng kết quả chỉ là... Thế là anh đã cải tạo là con tàu [[Morotoris\|Morotoris]] để khiến nó thành 1 con tàu hủy diệt [[Timeline\|Timeline]], và anh đã cải tạo cho thi thể của Astra vẫn có đầy đủ chức năng như người bình thường.. Và yep, Astra chỉ là đc thay tim thành động cơ tàu rồi lừa cơ quan trong cơ thể là tim thôi, nên cô vẫn có mọi chức nặng cơ bản như ăn uống, vệ sinh hay thậm chí là đỏ mặt và tới thắng Nhưng Morotoris cần ăn [[Time\|Time]] để tồn tại và chạy mà Time chỉ có thể lấy từ [[Core\|Core]] của Timeline
